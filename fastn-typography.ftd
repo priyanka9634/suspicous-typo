@@ -1,14 +1,14 @@
 -- import: fifthtry.github.io/package-doc/doc as pd
 -- import: fifthtry.github.io/package-doc/forest-theme as ds
 -- import: fifthtry.github.io/package-doc/footer
--- import: <user_name>.github.io/<repo_name>
+-- import: priyanka9634.github.io/suspicous-typo
 
 
 
 
 -- ds.page: 
 show-footer: true
-site-name: `<repo_name>`
+site-name: `suspicous-typo`
 
 -- ds.page.footer:
 
@@ -16,14 +16,14 @@ site-name: `<repo_name>`
 
 -- end: ds.page.footer
 
--- pd.package: <repo_name>
-name: <user_name>.github.io/<repo_name>
+-- pd.package: suspicous-typo
+name: priyanka9634.github.io/suspicous-typo
 
-Below are our default fastn `inherited` font types of <repo_name>.
+Below are our default fastn `inherited` font types of suspicous-typo.
 
 
 -- display-type:
-types: $<repo_name>.types
+types: $suspicous-typo.types
 
 
 -- end: ds.page
