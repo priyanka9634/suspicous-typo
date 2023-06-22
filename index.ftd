@@ -1,7 +1,7 @@
--- import: fifthtry.github.io/package-doc/doc as pd
--- import: fifthtry.github.io/package-doc/forest-theme as ds
--- import: fifthtry.github.io/package-doc/footer
--- import: fifthtry.github.io/opensans-font/assets as opensans-font-assets
+-- import: fastn-community.github.io/package-doc/doc as pd
+-- import: fastn-community.github.io/package-doc/forest-theme as ds
+-- import: fastn-community.github.io/package-doc/footer
+-- import: fastn-community.github.io/opensans-font/assets as opensans-font-assets
 
 ;; ⚠️fastn-builders::⚠️ before using this file please find and replace opensans-font
 ;; with font package name you have given inside this package 
